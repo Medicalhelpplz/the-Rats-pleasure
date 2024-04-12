@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer").themes.vsDark;
 const config = {
   title: 'Docs',
   tagline:
-    'The official documentation for Titanium Network, an organization dedicated to providing services related to bypassing internet censorship. Our projects expect to provide users, and itself, with a less restrictive browsing experience. Here we provide advanced web proxy services through the progression of web proxy technologies.',
+    'The unofficial documentation for Titanium Network, a copy Made By MJS do what you want with that info',
   url: 'https://docs.titaniumnetwork.org',
   baseUrl: '/',
   onBrokenLinks: 'warn',
